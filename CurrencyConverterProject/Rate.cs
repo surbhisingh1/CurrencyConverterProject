@@ -10,7 +10,7 @@ namespace CurrencyConverterProject
     {
         //Make sure API return value that name and where you want to store that name are same.Like in API get response INR then set it with INR Name.
         public double INR { get; set; }
-            public double JPY { get; set; }
+        public double JPY { get; set; }
             public double USD { get; set; }
             public double NZD { get; set; }
             public double EUR { get; set; }
